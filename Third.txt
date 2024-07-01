@@ -1,0 +1,9 @@
+To move this file to gitHUB I did....
+
+    git add Third.text
+    git commit - m "Commit Message"
+    git push origin main 
+
+origin = URL or SSH or CLI of the repository
+
+main = branch under Repository where it is stored
