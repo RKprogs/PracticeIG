@@ -1,8 +1,8 @@
 To move this file to gitHUB I did....
 
-    git add Third.text
-    git commit - m "Commit Message"
-    git push origin main 
+    git add Third.text                      --> Moving file to Staging area
+    git commit - m "Commit Message"         --> Moving from Staging area to local git
+    git push origin main                    --> Moving from local git to github
 
 origin = URL or SSH or CLI of the repository
 
